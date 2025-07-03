@@ -1,0 +1,15 @@
+python-dotenv
+weaviate-client 
+langchain 
+tiktoken 
+pypdf 
+rapidocr-onnxruntime
+weaviate
+langchain_huggingface
+langchain_community
+langchain_text_splitters
+langchain_weaviate
+openai
+langchain_openai
+langchain_groq
+sentence-transformers
